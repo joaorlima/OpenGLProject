@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\joaor\onedrive\desktop\coding\vs\projectsogl\project1_ogl_fglut\project1_ogl_fglut\project1_freeglut\main.cpp(73): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\joaor\onedrive\desktop\coding\vs\projectsogl\project1_ogl_fglut\project1_ogl_fglut\project1_freeglut\main.cpp(74): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\joaor\onedrive\desktop\coding\vs\projectsogl\project1_ogl_fglut\project1_ogl_fglut\project1_freeglut\main.cpp(75): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\joaor\onedrive\desktop\coding\vs\projectsogl\project1_ogl_fglut\project1_ogl_fglut\project1_freeglut\main.cpp(154): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\joaor\onedrive\desktop\coding\vs\projectsogl\project1_ogl_fglut\project1_ogl_fglut\project1_freeglut\main.cpp(155): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Project1_freeGlut.vcxproj -> C:\Users\joaor\OneDrive\Desktop\Coding\VS\ProjectsOGL\Project1_OGL_FGLUT\Project1_OGL_FGLUT\x64\Debug\Project1_freeGlut.exe
